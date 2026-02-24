@@ -26,3 +26,6 @@ Todas as funcionalidades foram **completamente implementadas** e estão funciona
 | **V** | **Alternar câmara para 3ª pessoa** |
 | **O** | **Despejar água na árvore** (combate a incêndios) |
 </div>
+
+## Preview
+![alt text](/project/screenshots/image.png)
