@@ -31,7 +31,7 @@ developed throughout the Computer Graphics course.
 
 ### Final Project
 
--   [Project](proj/README.md)
+-   [Project](project/README.md)
 
 Each folder contains a dedicated README file with implementation
 details, features, and usage instructions.
