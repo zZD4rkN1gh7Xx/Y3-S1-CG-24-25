@@ -29,3 +29,8 @@ Todas as funcionalidades foram **completamente implementadas** e estão funciona
 
 ## Preview
 ![alt text](/project/screenshots/image.png)
+
+##Bloopers
+
+https://github.com/user-attachments/assets/1d206aec-ee2c-49d8-9cab-77c750930894
+
